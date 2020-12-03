@@ -11,7 +11,7 @@
 
 ### How to use:
 
-in pyton file:
+in python file:
 
 ```python
 from console import console
