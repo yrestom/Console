@@ -1,6 +1,7 @@
 ## **Console**
 
 **Powerful Console for Frappe Backend**
+It allows you to use the same as the `console` statement in Python as it is in JavaScript
 
 ### **How to Install**
 
