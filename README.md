@@ -19,7 +19,7 @@ from console import console
 
 my_list = ['foo', 4, 5, 'bar', 0.4]
 
-console(my_list).loq()
+console(my_list).log()
 ```
 
 In browser console:
